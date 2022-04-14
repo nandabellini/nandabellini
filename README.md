@@ -17,7 +17,7 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **Age**: 21
 * **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: PHP - SQL
-* **University**: No.
+* **University**: Not anymore.
 
 <div style="justify-content: center; display: flex;">
     <a target='_blank' href="https://www.twitch.tv/bellinihe4rt">
@@ -27,18 +27,3 @@ Currently I'm studying about technology and development, mainly in fullstack.
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </div>
-
-<!--
-**BelliniHe4rt/BelliniHe4rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
