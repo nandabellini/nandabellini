@@ -19,7 +19,7 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **Stack**: PHP - SQL
 * **University**: No.
 
-<div style="align-items: center;">
+<div style="justify-content: center; display: flex;">
     <a target='_blank' href="https://www.twitch.tv/bellinihe4rt">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
