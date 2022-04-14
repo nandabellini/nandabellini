@@ -8,7 +8,8 @@ My name is Bellini. I currently live in São Paulo, Brazil and I'm studying web 
 
 On my free time, I like to read, play instruments, write poems and paint some frames. Basically, everything related to art.
 
-Nowadays I decided to stop college and start to study by myself and share my knowlwdge with those who want to know about.
+Nowadays I decided to stop college and start to study by myself and share my knowlwdge with those who want to know about.  
+Currently I'm studying about technology and development, mainly in fullstack.
 
 ## Detailed information
 
