@@ -1,4 +1,8 @@
-### Hi there 👋
+### **Hello there**  
+
+Hey! Nice to meet you on my profile. I'll tell you a little bit about me here.
+
+###
 
 <!--
 **BelliniHe4rt/BelliniHe4rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
