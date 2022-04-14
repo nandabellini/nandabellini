@@ -19,6 +19,11 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **Stack**: PHP - SQL
 * **University**: No.
 
+<div> 
+    <a href="https://www.flaticon.com/free-icons/twitch" title="twitch icons">Twitch icons created by Grow studio - Flaticon</a>
+</div>
+
+
 <!--
 **BelliniHe4rt/BelliniHe4rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
