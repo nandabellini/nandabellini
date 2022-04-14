@@ -20,7 +20,9 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **University**: No.
 
 <div> 
-    <a href="https://www.flaticon.com/free-icons/twitch" title="twitch icons">Twitch icons created by Grow studio - Flaticon</a>
+    <a href="https://www.twitch.tv/bellinihe4rt">
+        <img src="twitch.png">   
+    </a>
 </div>
 
 
