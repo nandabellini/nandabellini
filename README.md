@@ -17,7 +17,7 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **Age**: 21
 * **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: PHP - SQL
-* **University**: No.
+* **University**: No. But I've got an IT Essencials formation.
 
 <p align="center">
     <a target="_blank" href="https://www.twitch.tv/bellinihe4rt">
