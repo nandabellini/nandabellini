@@ -20,6 +20,9 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **University**: No. But I've got an IT Essencials formation.
 
 <p align="center">
+    <a target='_blank' href="https://instagram.com/romanoff.jpg">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
     <a target="_blank" href="https://www.twitch.tv/bellinihe4rt">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
