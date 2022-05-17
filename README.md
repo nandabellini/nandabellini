@@ -13,7 +13,7 @@ Currently I'm studying about technology and development, mainly in fullstack.
 
 ## Detailed information
 
-* **Name**: Nanda
+* **Name**: Bellini
 * **Age**: 21
 * **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: PHP - SQL
