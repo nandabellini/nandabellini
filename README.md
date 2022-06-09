@@ -19,7 +19,7 @@ Currently I'm studying about technology and development, mainly in fullstack.
 * **Stack**: PHP - SQL
 * **University**: No. But I have an IT Essencials.
 
-<p style="text-align: center">
+<div align="center">
     <a target='_blank' href="https://instagram.com/bellinihe4rt">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
@@ -29,4 +29,4 @@ Currently I'm studying about technology and development, mainly in fullstack.
     <a target='_blank' href="https://twitter.com/BelliniHe4rt">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-</p>
+</div>
