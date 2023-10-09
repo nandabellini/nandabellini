@@ -17,7 +17,7 @@ Currently I'm studying and working in the education and teaching area.
 * **Name**: Fernanda
 * **Age**: 22
 * **Living in**: Cachoeira Paulista - SP, Brazil
-* **Stack**: PHP - SQL
+* **CEFR Level**: B2 - FCE
 * **University**: Pedagogy
 
 <div align="center">
