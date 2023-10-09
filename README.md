@@ -4,20 +4,21 @@ Hey! Nice to meet you on my profile. I'll tell you a little bit about me.
 
 ## Public information
 
-My name is Fernanda, but, most of people know me by Nanda. I currently live in São Paulo, Brazil and I'm studying web development.  
+My name is Fernanda, but, most of people know me by Nanda. I currently live in São Paulo, Brazil and I'm studying Languages.
+I'm an English teacher at a Languages Institute which works based on the CEFR, using and applying methodologies and materials from the University of Oxford (OUP) and some extra Cambridge materials.
 
 On my free time, I like to read, play instruments, write poems and paint some frames. Basically, everything related to art.
 
-Nowadays I decided to stop college and start to study by myself and share my knowlwdge with those who want to know about.  
+Nowadays I study the CAE course from Oxford in order to achieve now my C1 Cambridge certification.  
 Currently I'm studying about technology and development, mainly in fullstack.
 
 ## Detailed information
 
 * **Name**: Fernanda
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Cachoeira Paulista - SP, Brazil
 * **Stack**: PHP - SQL
-* **University**: No. But I have an IT Essencials.
+* **University**: Pedagogy
 
 <div align="center">
     <a target='_blank' href="https://instagram.com/nandabellini__">
