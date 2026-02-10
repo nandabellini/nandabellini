@@ -1,31 +1,19 @@
-## **Hello there**  
+<h1 align="center">👋 Olá, eu sou a Bellini tg</h1>
 
-Hey! Nice to meet you on my profile. I'll tell you a little bit about me.
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
+</p><br><br>
 
-## Public information
 
-My name is Fernanda, but, most of people know me by Nanda. I currently live in São Paulo, Brazil and I'm studying Languages.  
-I'm an English teacher at a Languages Institute which works based on the CEFR, using and applying methodologies and materials from the University of Oxford (OUP) and some extra Cambridge materials.
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
 
-On my free time, I like to read, play instruments, write poems and paint some frames. Basically, everything related to art.
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,git,github)](https://skillicons.dev)<br><br>
 
-Nowadays I study the CAE course from Oxford in order to achieve now my C1 Cambridge certification.  
-Currently I'm studying and working in the education and teaching area.
+## 📫 Contato
 
-## Detailed information
+[![Gmail Badge](https://img.shields.io/badge/-{fernandabellini.dev@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{fernandabellini.dev@gmail.com})
+[![Twitter Follow](https://img.shields.io/twitter/follow/nandabellini__?style=social)]({https://x.com/nandabellini__}) <br><br>
 
-* **Name**: Fernanda
-* **Age**: 22
-* **Living in**: Cachoeira Paulista - SP, Brazil
-* **CEFR Level**: B2 - FCE
-* **University**: Pedagogy
-
-<div align="center">
-    <a target='_blank' href="https://instagram.com/nandabellini__">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://twitter.com/nandabellini__">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-</div>
-
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊 <br><br>
