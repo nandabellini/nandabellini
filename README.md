@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Bellini tg</h1>
+<h1 align="center">👋 Olá, eu sou a Bellini </h1>
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
