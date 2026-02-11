@@ -13,7 +13,6 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-fernandabellini.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{fernandabellini.dev@gmail.com})
 [![Twitter Follow](https://img.shields.io/twitter/follow/nandabellini__?style=social)]({https://x.com/nandabellini__}) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você! 😊 <br><br>
